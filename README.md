@@ -1,4 +1,4 @@
-## Hi -- thanks for being here!
+## Hi - thanks for being here!
 
 
 
@@ -9,21 +9,21 @@ Welcome to my GitHub profile! I'm Monika, a senior in Computer Science at Oregon
 
 ### About Me
 
-- I’m currently working as an IT Intern at The Dutra Group, where I'm involved in maintaining Windows systems and Microsoft Azure AD accounts to ensure secure and efficient access.
+🧑🏼‍💼 I’m currently working as an IT Intern at The Dutra Group, where I'm involved in maintaining Windows systems and Microsoft Azure AD accounts to ensure secure and efficient access.
 
-- I’m constantly learning and growing in the field of Computer Science. My education at Oregon State University has provided me with a strong foundation in various technologies and programming languages.
+🪴 I’m constantly learning and growing in the field of Computer Science. My education at Oregon State University has provided me with a strong foundation in various technologies and programming languages.
 
--  I’m always looking to collaborate on exciting projects that challenge me and allow me to expand my skill set.
+🧩 I’m always looking to collaborate on exciting projects that challenge me and allow me to expand my skill set.
 
--  I’m open to receiving help and insights from the developer community, especially on topics related to networking and software development.
+✍🏻 I’m open to receiving help and insights from the developer community, especially on topics related to networking and software development.
 
--  Ask me about database design, web development, and leveraging AI in creative projects.
+👩🏼‍💻 Ask me about database design, web development, and leveraging AI in creative projects.
 
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/monika-marek).
+🤝🏻 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/monika-marek).
 
-- Pronouns: She/Her:
+👩🏼 Pronouns: She/Her:
 
-- Fun fact: I'm originally from Poland and I'm fluent in Spanish, Polish, and English!
+🌍 Fun fact: I'm originally from Poland and I'm fluent in Spanish, Polish, and English!
 
 ## Education and Professional Development
 
