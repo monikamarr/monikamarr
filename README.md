@@ -1,7 +1,6 @@
 ## Hi -- thanks for being here!
 
-<!--
-**monikamarr/monikamarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -54,4 +53,3 @@ I'm pursuing a Bachelor of Science in Computer Science at Oregon State Universit
 
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me. I'm excited to continue learning, collaborating, and contributing to the world of technology.
--->
