@@ -2,9 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
-
 Welcome to my GitHub profile! I'm Monika, a senior in Computer Science at Oregon State University. I'm passionate about coding, problem-solving, and creating innovative solutions. Feel free to explore my projects and contributions.
 
 ### About Me
