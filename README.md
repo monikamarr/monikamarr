@@ -6,9 +6,10 @@ Welcome to my GitHub profile! I'm Monika, a senior in Computer Science at Oregon
 
 ### About Me
 
-🧑🏼‍💼 I’m currently working as a University Learning Assistant at Oregon State University, where I'm involved in helping students develop their data structure proficiency by mentoring them through the course, offering comprehensive feedback on assignments, coding style, and algorithmic efficiency to contribute to their continuous improvement.
+🧑🏼‍💼 I’m currently working as a Data & Analytics Intern @ Wells Fargo with focus on AI Platform Services.
 
 🪴 I’m constantly learning and growing in the field of Computer Science. My education at Oregon State University has provided me with a strong foundation in various technologies and programming languages.
+I am staring a CS Masters at Georgia Tech this summer.
 
 🧩 I’m always looking to collaborate on exciting projects that challenge me and allow me to expand my skill set.
 
@@ -18,7 +19,7 @@ Welcome to my GitHub profile! I'm Monika, a senior in Computer Science at Oregon
 
 🤝🏻 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/monika-marek).
 
-👩🏼 Pronouns: She/Her:
+👩🏼 Pronouns: She/Her
 
 🌍 Fun fact: I'm originally from Poland and I'm fluent in Spanish, Polish, and English!
 
