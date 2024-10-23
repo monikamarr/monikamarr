@@ -2,11 +2,9 @@
 
 
 
-Welcome to my GitHub profile! I'm Monika, a senior in Computer Science at Oregon State University. I'm passionate about coding, problem-solving, and creating innovative solutions. Feel free to explore my projects and contributions.
+Welcome to my GitHub profile! I'm Monika and I study Computer Science at Oregon State University. I'm passionate about coding, problem-solving, and creating innovative solutions. Feel free to explore my projects and contributions.
 
 ### About Me
-
-🧑🏼‍💼 I’m currently working as a Data & Analytics Intern @ Wells Fargo with focus on AI Platform Services.
 
 🪴 I’m constantly learning and growing in the field of Computer Science. My education at Oregon State University has provided me with a strong foundation in various technologies and programming languages.
 I am staring a CS Masters at Georgia Tech this summer.
